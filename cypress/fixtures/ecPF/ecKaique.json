@@ -1,0 +1,19 @@
+{
+    "cpf": "423.421.028-52",
+    "nomeCompleto": "Kaique Oliveira de Freitas",
+    "nomeMae": "Nome Exemplo",
+    "cep": "09341-120",
+    "numero": "999",
+    "clienteResponsavel": "Contato",
+    "email": "conrado+00060@b2ml.com.br",
+    "telefoneEmpresa": "(11) 9999-9999",
+    "celularContato": "(92) 99988-4466",
+    "filtroBanco": "260",
+    "banco": "260 NU PAGAMENTOS S.A (NUBANK)",
+    "filtroConta": "Corr",
+    "tipoConta": "Conta Corrente",
+    "conta": "01045",
+    "agencia": "102",
+    "filtroAtuacao": "Depar",
+    "definicaoAtuacao": "Lojas de Departamentos"
+}

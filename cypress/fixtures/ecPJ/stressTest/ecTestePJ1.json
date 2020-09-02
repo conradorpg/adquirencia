@@ -1,0 +1,19 @@
+{
+    "cnpj": "33.534.252/0001-48",
+    "razaoSocial": "EC Teste 1b",
+    "nomeFantasia": "EC Teste 1b",
+    "cep": "69005-080",
+    "numero": "65",
+    "clienteResponsavel": "Contato",
+    "email": "conrado+0007011@b2ml.com.br",
+    "telefoneEmpresa": "(92) 6454-4466",
+    "celularContato": "(92) 99954-4466",
+    "filtroBanco": "260",
+    "banco": "260 NU PAGAMENTOS S.A (NUBANK)",
+    "filtroConta": "Corr",
+    "tipoConta": "Conta Corrente",
+    "conta": "01045",
+    "agencia": "102",
+    "filtroAtuacao": "Depar",
+    "definicaoAtuacao": "Lojas de Departamentos"
+}
