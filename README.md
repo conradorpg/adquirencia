@@ -55,3 +55,5 @@ In global mode (ie, with -g or --global appended to the command), it installs th
 By default, npm install will install all modules listed as dependencies in package.json.
 
 With the --production flag (or when the NODE_ENV environment variable is set to production), npm will not install modules listed in devDependencies.
+
+Nesse documento estão listados as funções de login, cadastro de EC pessoa física e juridica bem como ativar os mesmos e ainda cadastrar vendedor.
